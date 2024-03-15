@@ -20,6 +20,9 @@
     "semantic-release": "23.0.3",
     "typescript-eslint": "7.2.0"
   },
+  "files": [
+    "src"
+  ],
   "license": "MIT",
   "main": "src/index.js",
   "name": "@dargmuesli/commitlint-config",
