@@ -20,7 +20,7 @@
     "jiti": "1.21.0",
     "lint-staged": "15.2.2",
     "semantic-release": "23.0.6",
-    "typescript-eslint": "7.4.0"
+    "typescript-eslint": "7.5.0"
   },
   "files": [
     "src"
