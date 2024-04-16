@@ -34,7 +34,7 @@
   },
   "scripts": {
     "lint": "pnpm run lint:es",
-    "lint:es": "eslint .",
+    "lint:es": "eslint --cache",
     "prepare": "husky"
   },
   "type": "module",
