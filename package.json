@@ -18,7 +18,7 @@
     "globals": "15.3.0",
     "husky": "9.0.11",
     "jiti": "1.21.0",
-    "lint-staged": "15.2.2",
+    "lint-staged": "15.2.4",
     "semantic-release": "23.1.1",
     "typescript-eslint": "7.10.0"
   },
