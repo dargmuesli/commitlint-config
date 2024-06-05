@@ -55,8 +55,8 @@ importers:
         specifier: 9.0.11
         version: 9.0.11
       jiti:
-        specifier: 1.21.1
-        version: 1.21.1
+        specifier: 1.21.3
+        version: 1.21.3
       lint-staged:
         specifier: 15.2.5
         version: 15.2.5
@@ -1254,8 +1254,8 @@ packages:
     resolution: {integrity: sha512-qjdpeo2yKlYTH7nFdK0vbZWuTCesk4o63v5iVOlhMQPfuIZQfW/HI35SjfhA+4qpg36rnFSvUK5b1m+ckIblQQ==}
     engines: {node: '>= 0.6.0'}
 
-  jiti@1.21.1:
-    resolution: {integrity: sha512-KMXpzEJMsOFyRj6ZpDTnnlJrdr9umUY+eut5vlRvjVixohitnRFIRTFw9MEu9zPlBxTHZo6xD5ftKYiQZuJYQw==}
+  jiti@1.21.3:
+    resolution: {integrity: sha512-uy2bNX5zQ+tESe+TiC7ilGRz8AtRGmnJH55NC5S0nSUjvvvM2hJHmefHErugGXN4pNv4Qx7vLsnNw9qJ9mtIsw==}
     hasBin: true
 
   js-tokens@4.0.0:
@@ -2883,7 +2883,7 @@ snapshots:
     dependencies:
       '@types/node': 20.14.0
       cosmiconfig: 9.0.0(typescript@5.4.5)
-      jiti: 1.21.1
+      jiti: 1.21.3
       typescript: 5.4.5
 
   cosmiconfig@9.0.0(typescript@5.4.5):
@@ -3572,7 +3572,7 @@ snapshots:
 
   java-properties@1.0.2: {}
 
-  jiti@1.21.1: {}
+  jiti@1.21.3: {}
 
   js-tokens@4.0.0: {}
 
