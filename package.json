@@ -20,7 +20,7 @@
     "jiti": "1.21.6",
     "lint-staged": "15.2.10",
     "semantic-release": "24.1.0",
-    "typescript-eslint": "8.4.0"
+    "typescript-eslint": "8.5.0"
   },
   "files": [
     "src"
@@ -28,7 +28,7 @@
   "license": "MIT",
   "main": "src/index.js",
   "name": "@dargmuesli/commitlint-config",
-  "packageManager": "pnpm@9.9.0",
+  "packageManager": "pnpm@9.10.0",
   "publishConfig": {
     "access": "public"
   },
