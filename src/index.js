@@ -1,11 +1,10 @@
-import jiti from "jiti";
+import { createJiti } from "jiti";
 
-const moduleFileUrl = new URL(import.meta.url);
-const JITI = jiti(moduleFileUrl.pathname);
+const jiti = createJiti(import.meta.url, { interopDefault: true });
 
-/**
- * @type {import('@commitlint/types').UserConfig}
- */
-const commitlintConfiguration = JITI("./commitlintrc.ts").default;
+const commitlintConfiguration =
+  /** @type {import('@commitlint/types').UserConfig} */ (
+    await jiti.import("./commitlintrc.ts")
+  );
 
 export default commitlintConfiguration;
