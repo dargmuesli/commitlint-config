@@ -20,7 +20,7 @@
     "husky": "9.1.7",
     "jiti": "2.4.2",
     "lint-staged": "16.1.2",
-    "semantic-release": "24.2.5",
+    "semantic-release": "24.2.6",
     "typescript-eslint": "8.35.0"
   },
   "files": [
