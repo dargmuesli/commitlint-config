@@ -14,7 +14,7 @@
     "husky": "9.1.7",
     "jiti": "2.6.1",
     "lint-staged": "16.2.7",
-    "typescript-eslint": "8.53.1"
+    "typescript-eslint": "8.54.0"
   },
   "files": [
     "src"
@@ -22,7 +22,7 @@
   "license": "MIT",
   "main": "src/index.js",
   "name": "@dargmuesli/commitlint-config",
-  "packageManager": "pnpm@10.28.1",
+  "packageManager": "pnpm@10.28.2",
   "publishConfig": {
     "access": "public"
   },
