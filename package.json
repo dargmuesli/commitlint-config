@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "@commitlint/config-conventional": "20.4.2"
+    "@commitlint/config-conventional": "20.4.3"
   },
   "devDependencies": {
-    "@commitlint/cli": "20.4.2",
-    "@commitlint/types": "20.4.0",
+    "@commitlint/cli": "20.4.3",
+    "@commitlint/types": "20.4.3",
     "@eslint/js": "10.0.1",
     "conventional-changelog-conventionalcommits": "9.2.0",
     "eslint": "10.0.2",
@@ -13,7 +13,7 @@
     "globals": "17.4.0",
     "husky": "9.1.7",
     "jiti": "2.6.1",
-    "lint-staged": "16.3.1",
+    "lint-staged": "16.3.2",
     "typescript-eslint": "8.56.1"
   },
   "files": [
