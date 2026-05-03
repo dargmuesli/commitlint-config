@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "@commitlint/config-conventional": "20.5.0"
+    "@commitlint/config-conventional": "20.5.3"
   },
   "devDependencies": {
-    "@commitlint/cli": "20.5.2",
+    "@commitlint/cli": "20.5.3",
     "@commitlint/types": "20.5.0",
     "@eslint/js": "10.0.1",
     "conventional-changelog-conventionalcommits": "9.3.1",
