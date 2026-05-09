@@ -3,18 +3,19 @@
     "@commitlint/config-conventional": "20.5.3"
   },
   "devDependencies": {
-    "@commitlint/cli": "20.5.3",
-    "@commitlint/types": "20.5.0",
     "@eslint/js": "10.0.1",
-    "conventional-changelog-conventionalcommits": "9.3.1",
     "eslint": "10.3.0",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-prettier": "5.5.5",
     "globals": "17.6.0",
-    "husky": "9.1.7",
     "jiti": "2.7.0",
-    "lint-staged": "16.4.0",
     "typescript-eslint": "8.59.2"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "11.0.8"
+    }
   },
   "files": [
     "src"
@@ -22,14 +23,12 @@
   "license": "MIT",
   "main": "src/index.js",
   "name": "@dargmuesli/commitlint-config",
-  "packageManager": "pnpm@11.0.8",
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
     "lint": "pnpm run lint:es",
-    "lint:es": "eslint --cache",
-    "prepare": "husky"
+    "lint:es": "eslint --cache"
   },
   "type": "module",
   "version": "0.0.3"
