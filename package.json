@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@commitlint/config-conventional": "20.5.3"
+    "@commitlint/config-conventional": "21.0.0"
   },
   "devDependencies": {
     "@eslint/js": "10.0.1",
