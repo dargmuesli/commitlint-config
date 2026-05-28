@@ -1,3 +1,9 @@
+## [0.0.4](https://github.com/dargmuesli/commitlint-config/compare/0.0.3...0.0.4) (2026-05-28)
+
+### Bug Fixes
+
+* **ci:** release using pnpm ([a373691](https://github.com/dargmuesli/commitlint-config/commit/a3736916ff2a6eea69dcd2c64d6af7c62f966149))
+
 ## [0.0.3](https://github.com/dargmuesli/commitlint-config/compare/0.0.2...0.0.3) (2024-03-15)
 
 
