@@ -26,6 +26,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dargmuesli/commitlint-config.git"
+  },
   "scripts": {
     "lint": "pnpm run lint:es",
     "lint:es": "eslint --cache"
