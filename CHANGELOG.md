@@ -1,3 +1,9 @@
+## [0.0.5](https://github.com/dargmuesli/commitlint-config/compare/0.0.4...0.0.5) (2026-05-28)
+
+### Bug Fixes
+
+* **ci:** set repository url ([5461294](https://github.com/dargmuesli/commitlint-config/commit/5461294cad35ca2a7e39bcf6a0a05a3921856c20))
+
 ## [0.0.4](https://github.com/dargmuesli/commitlint-config/compare/0.0.3...0.0.4) (2026-05-28)
 
 ### Bug Fixes
