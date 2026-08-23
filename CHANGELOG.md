@@ -1,3 +1,9 @@
+## [0.0.6](https://github.com/dargmuesli/commitlint-config/compare/0.0.5...0.0.6) (2026-08-23)
+
+### Bug Fixes
+
+* **release:** tag npm publishes with the release channel ([#51](https://github.com/dargmuesli/commitlint-config/issues/51)) ([1d4939c](https://github.com/dargmuesli/commitlint-config/commit/1d4939c58c55bf652340d06749b53e1a83bd23d4))
+
 ## [0.0.5](https://github.com/dargmuesli/commitlint-config/compare/0.0.4...0.0.5) (2026-05-28)
 
 ### Bug Fixes
