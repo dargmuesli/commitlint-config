@@ -1,3 +1,9 @@
+## [0.0.7](https://github.com/dargmuesli/commitlint-config/compare/0.0.6...0.0.7) (2026-11-23)
+
+### Bug Fixes
+
+* **deps:** update all non-major dependencies ([591e29d](https://github.com/dargmuesli/commitlint-config/commit/591e29dd3c5fa23b082894cbb6920ae42c303a2b))
+
 ## [0.0.6](https://github.com/dargmuesli/commitlint-config/compare/0.0.5...0.0.6) (2026-08-23)
 
 ### Bug Fixes
